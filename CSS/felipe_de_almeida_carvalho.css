@@ -1,0 +1,39 @@
+
+:root{
+    --color_01: #082032;
+    --color_02: #2C394B;
+    --color_03: #334756;
+    --color_04: #FF4C29;
+}
+body{
+    background-color: var(--color_03);
+}
+.bg-color{
+    background-color: var(--color_01);
+}
+.logo{
+    width: 90px;
+    border-radius: 50%;
+}
+.nav-link{
+    color: #fff;
+}
+.bg-color1{
+    background-color: var(--color_04);
+}
+.bg-color2{
+    background-color: var(--color_02);
+}
+.tcolor{
+    color: var(--color_02);
+}
+.tcolor1{
+    color: var(--color_04);
+}
+.text-c{
+    color: #000;
+}
+.img1{
+    width: 1080px;
+    height: 720px;
+}
